@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@discordjs/voice": "^0.6.0",
+    "chalk": "^4.1.2",
+    "discord.js": "^13.1.0",
+    "figlet": "^1.5.2",
+    "fs": "^0.0.1-security",
+    "ms": "^3.0.0-canary.1"
+  },
+  "name": "spicetickets",
+  "version": "2.0.1",
+  "description": "Spice Tickets In Discord JS V13 By Spicey",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Spicey",
+  "license": "ISC"
+}

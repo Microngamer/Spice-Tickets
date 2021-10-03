@@ -1,0 +1,26 @@
+{
+    "main_config": {
+        "token": "YOUR_BOT_TOKEN",
+        "prefix": ".",
+        "colorhex": "#00FFFF",
+        "servername": "YOUR_SERVER_NAME",
+        "serverid": "YOUR_SERVER_ID",
+        "copyright": "@ 2021 YOUR_COPYRIGHT",
+        "voicechannel": "YOUR_SERVER_ID"
+    },
+
+    "ticket_config": {
+        "enabled": true,
+        "ticketchannel": "YOUR_TICKET_PANEL_CHANNEL",
+        "ticketcategory": "YOUR_TICKET_CATEGORY",
+        "ticketarchivecategory": "YOUR_TICKET_ARCHIVE_CATEGORY",
+        "newticketmessage": "Thank You For Creating A Ticket Staff Will Be With You Shortly",
+        "ticketbuttonemoji": "🎫",
+        "ticketbuttoncolor": "SECONDARY",
+        "ticketimage": "YOUR_TICKET_IMAGE"
+    },
+
+    "permissions_config": {
+        "ticketmanagers": "YOUR_STAFF_TEAM_ROLE"
+    }
+}
